@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/transition-land-v21/details_window_enter_transition.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/transition-land-v21/details_window_enter_transition.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/transition-land-v21/details_window_return_transition.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/transition-land-v21/details_window_return_transition.xml"
+    }
+]

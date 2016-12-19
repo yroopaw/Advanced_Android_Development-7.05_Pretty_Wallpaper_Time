@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/menu/forecastfragment.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/menu/forecastfragment.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/menu/detail.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/menu/detailfragment.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/menu/detailfragment.xml"
+    }
+]

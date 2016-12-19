@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_font_size">56sp</dimen>
+    <dimen name="date_font_size">16sp</dimen>
+    <dimen name="temp_font_size">22sp</dimen>
+
+    <dimen name="x_offset">15dp</dimen>
+    <dimen name="x_offset_round">25dp</dimen>
+    <dimen name="y_offset">90dp</dimen>
+
+    <dimen name="y_offset_date">110dp</dimen>
+    <dimen name="y_offset_weather">150dp</dimen>
+
+
+
+</resources>

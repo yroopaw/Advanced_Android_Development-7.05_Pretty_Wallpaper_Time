@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/xml/widget_info_today.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/xml/widget_info_today.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/res/merged/debug/xml/widget_info_detail.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/xml/widget_info_detail.xml"
+    }
+]

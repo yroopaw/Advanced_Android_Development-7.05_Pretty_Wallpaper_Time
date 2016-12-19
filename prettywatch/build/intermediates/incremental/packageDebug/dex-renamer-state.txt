@@ -1,0 +1,7 @@
+#Sun Dec 18 11:21:48 IST 2016
+base.0=/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_52d4bba783faeefd45925a7fe299b89de7a98521
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0f9c86c68f292320b591f07503afed1f6b2de4d2/classes.dex
+base.1=/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0f9c86c68f292320b591f07503afed1f6b2de4d2
+file.0=/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_52d4bba783faeefd45925a7fe299b89de7a98521/classes.dex

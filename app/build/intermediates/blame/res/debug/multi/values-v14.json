@@ -1,0 +1,266 @@
+[
+    {
+        "outputFile": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/values-v14/widget_dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 43,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 970,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 70,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 70,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 82,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 889,
+                        "endColumn": 82,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1595
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1382,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1600,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1785
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1790,
+                    "endColumn": 119,
+                    "endOffset": 1905
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2040,
+                        "endColumn": 119,
+                        "endOffset": 2155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1910,
+                    "endColumn": 62,
+                    "endOffset": 1968
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2160,
+                        "endColumn": 62,
+                        "endOffset": 2218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1973,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2122
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2223,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endColumn": 62,
+                    "endOffset": 2185
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2377,
+                        "endColumn": 62,
+                        "endOffset": 2435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2190,
+                    "endColumn": 131,
+                    "endOffset": 2317
+                },
+                "from": {
+                    "file": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2440,
+                        "endColumn": 131,
+                        "endOffset": 2567
+                    }
+                }
+            }
+        ]
+    }
+]
