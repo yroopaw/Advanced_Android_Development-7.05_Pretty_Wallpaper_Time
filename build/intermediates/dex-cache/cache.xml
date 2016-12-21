@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4ec33dd279bba68c9c92c206bc52a02e9d8a0fd2">
+        sha1="caab10043f2e1892169ed1fcd0bedf7bdffa0a55">
         <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_52d4bba783faeefd45925a7fe299b89de7a98521/classes.dex" />
     </item>
     <item
@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7e3b10bc2b492e531f28fd26b930ef67510bd6d5">
+        sha1="6a80a3d68de1e7a8524bd77689b02e817f51e508">
         <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0f9c86c68f292320b591f07503afed1f6b2de4d2/classes.dex" />
     </item>
     <item

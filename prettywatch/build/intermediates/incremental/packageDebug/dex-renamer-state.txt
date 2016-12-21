@@ -1,4 +1,4 @@
-#Sun Dec 18 11:21:48 IST 2016
+#Wed Dec 21 21:14:17 IST 2016
 base.0=/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_52d4bba783faeefd45925a7fe299b89de7a98521
 renamed.1=classes2.dex
 renamed.0=classes.dex

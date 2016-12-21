@@ -1,15 +1,15 @@
 [
     {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/ic_cc_checkmark.xml",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/drawable/ic_cc_checkmark.xml"
+    },
+    {
         "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/ic_more_vert_24dp_wht.xml",
         "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/drawable/ic_more_vert_24dp_wht.xml"
     },
     {
         "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/ic_more_horiz_24dp_wht.xml",
         "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/drawable/ic_more_horiz_24dp_wht.xml"
-    },
-    {
-        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/ic_cc_checkmark.xml",
-        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/res/drawable/ic_cc_checkmark.xml"
     },
     {
         "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/accept_deny_dialog_positive_bg.xml",
@@ -76,12 +76,12 @@
         "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/src/main/res/drawable/wear_snow.png"
     },
     {
-        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/wear_rain.png",
-        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/src/main/res/drawable/wear_rain.png"
-    },
-    {
         "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
         "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/wear_rain.png",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/src/main/res/drawable/wear_rain.png"
     },
     {
         "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/wear_light_clouds.png",
@@ -92,12 +92,12 @@
         "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/wear_clouds.png",
-        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/src/main/res/drawable/wear_clouds.png"
-    },
-    {
         "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
         "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/wear_clouds.png",
+        "source": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/src/main/res/drawable/wear_clouds.png"
     },
     {
         "merged": "/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/prettywatch/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",

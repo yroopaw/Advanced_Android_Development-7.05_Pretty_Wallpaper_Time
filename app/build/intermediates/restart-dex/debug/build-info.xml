@@ -5,29 +5,29 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="71293055029031"
+    timestamp="90890747432819"
     token="1087598397734353109"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="3108" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="179" />
     <task
         name="verifier"
-        duration="0" />
+        duration="2" />
 
     <artifact
         location="/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="71293055029031"
+        timestamp="90890747432819"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/yusuf/Desktop/Android_NanoDegree/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/outputs/apk/app-debug.apk"
